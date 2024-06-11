@@ -1,4 +1,6 @@
 //console.log('hola mundo');
+alert('Hola desde app.js');
+
 
 let a = 50,
     b = 10,
